@@ -1,0 +1,15 @@
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\bin\Debug\net6.0\ObjProgAssignment_1.exe
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\bin\Debug\net6.0\ObjProgAssignment_1.deps.json
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\bin\Debug\net6.0\ObjProgAssignment_1.runtimeconfig.json
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\bin\Debug\net6.0\ObjProgAssignment_1.dll
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\bin\Debug\net6.0\ObjProgAssignment_1.pdb
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.csproj.AssemblyReference.cache
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.AssemblyInfoInputs.cache
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.AssemblyInfo.cs
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.csproj.CoreCompileInputs.cache
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.dll
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\refint\ObjProgAssignment_1.dll
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.pdb
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ObjProgAssignment_1.genruntimeconfig.cache
+D:\Programs\VisualStudio_2022\MyPrograms\ObjProgAssignment_1\obj\Debug\net6.0\ref\ObjProgAssignment_1.dll

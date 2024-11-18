@@ -1,0 +1,11 @@
+﻿A19BC#12 trolibusz 1951 vegyes 1800000
+B19BC#12 autobusz 1954 kulvaros 3000000
+C19BA#12 villamos 1969 vegyes 4400000
+E22BB#11 trolibusz 1966 vegyes 9000000
+Z44BA#21 autobusz 1991 kulvaros 2800000
+Z44BA#21 villamos 1981 belvaros 1100000
+G19BC#12 trolibusz 1991 kulvaros 9900000
+H19BC#12 autobusz 1991 kulvaros 9000000
+I19BC#12 villamos 2002 vegyes 7700000
+J19BC#12 villamos 2020 belvaros 1200000
+K19BC#12 villamos 2022 kulvaros 900000
